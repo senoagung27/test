@@ -94,4 +94,4 @@ const Bar = StackNavigator({
   
 });
 
-AppRegistry.registerComponent('tugas1', () => Bar);
+AppRegistry.registerComponent('coba', () => Bar);
