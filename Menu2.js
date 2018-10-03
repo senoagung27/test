@@ -13,7 +13,7 @@ class Menu2 extends React.Component {
   render() {
     return (
       <View>
-        <Text>ini menu 2</Text>
+        <Text>ini menu kedua</Text>
       </View>
     );
   }
